@@ -17,6 +17,15 @@
 - How to reach me: **tsepophetla@gmail.com**
 - Pronouns: He/Him
 
+##🏆 Certificates
+- Responsive web design Certificate
+- Front-End Development
+-  Juniour Cybersecurity Analyst
+- Security, Compliance, and Identity Fundamentals
+- Security Operations Analyst Associate
+- Azure Security Engineer Associate
+- Introduction to Cybersecurity
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/tsepo-phetla-95a22a194/) 
 
