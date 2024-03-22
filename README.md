@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Tsepo-Phetla/Tsepo-Phetla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
                 - 💬 Ask me about -
@@ -16,7 +15,7 @@
 
 - 📫 How to reach me: tsepophetla@gmail.com
 
--->
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/tsepo-phetla-95a22a194/) 
