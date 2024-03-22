@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-               ### Hi there
+                                ### ABOUT ME
+
+             
 
  I am a skilled, up-and-coming Software Developer || Data Analyst || Cybersecurity with a
  keen interest in tackling intricate technical challenges within an
