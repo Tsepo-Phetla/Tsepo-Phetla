@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-                ### About Me 
+                About Me 
 
  I am a skilled, up-and-coming Software Developer || Data Analyst || Cybersecurity with a
  keen interest in tackling intricate technical challenges within an
@@ -11,8 +11,6 @@
  continuous learning and growth in my role as a software professional. I
  possess the capacity to strategize, evaluate risks, and adeptly resolve
  issues.
-
-- 📫 How to reach me: tsepophetla@gmail.com
 
 
 
