@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
--                                **ABOUT ME**
+**ABOUT ME**
 
              
 
