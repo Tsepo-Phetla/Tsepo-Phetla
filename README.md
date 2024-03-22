@@ -14,8 +14,8 @@
  possess the capacity to strategize, evaluate risks, and adeptly resolve
  issues.
 
--How to reach me: tsepophetla@gmail.com
--Pronouns: He/Him
+- How to reach me: **tsepophetla@gmail.com**
+- Pronouns: He/Him
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/tsepo-phetla-95a22a194/) 
