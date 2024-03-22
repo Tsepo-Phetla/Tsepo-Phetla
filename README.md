@@ -17,7 +17,7 @@
 - How to reach me: **tsepophetla@gmail.com**
 - Pronouns: He/Him
 
-##🏆 Certificates
+**🏆 Certificates*
 - Responsive web design Certificate
 - Front-End Development
 -  Juniour Cybersecurity Analyst
